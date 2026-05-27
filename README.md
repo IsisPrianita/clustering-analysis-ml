@@ -11,8 +11,8 @@ clustering-analysis-ml/
 ├── data/
 │   ├── Train.csv          # Training data (fall detection)
 │   └── Test.csv           # Testing data (fall detection)
-├── notebook/
-│   └── clustering_analysis.ipynb
+├── penguins.csv           # Dataset eksplorasi
+├── Untitled-1.ipynb       # Main notebook (penguins + fall detection)
 └── README.md
 ```
 
@@ -84,7 +84,7 @@ cd clustering-analysis-ml
 
 3. Buka notebook
 ```bash
-jupyter notebook notebook/clustering_analysis.ipynb
+jupyter notebook Untitled-1.ipynb
 ```
 
 4. **Restart Kernel & Run All**
@@ -98,6 +98,7 @@ pandas
 scikit-learn
 matplotlib
 jupyter
+numpy
 ```
 
 | (nama kamu) | (NIM kamu) |
