@@ -100,7 +100,3 @@ matplotlib
 jupyter
 numpy
 ```
-
-| (nama kamu) | (NIM kamu) |
-
-Binus University — Machine Learning 2026
